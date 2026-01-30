@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "A Study on Intelligibility, Naturalness and Fluency of TTS Systems"
+authors:
+  - family-names: M
+    given-names: Rumana Nachiyar
+  - family-names: S
+    given-names: Priyadharshini
+  - family-names: K
+    given-names: Usharani
+conference:
+  name: "7th IEEE International Conference on Emerging Smart Computing and Informatics (ESCI 2025)"
+url: "https://ieeexplore.ieee.org/xpl/conhome/10987191/proceeding"
